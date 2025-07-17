@@ -5,14 +5,18 @@ The Online Bus Ticket Booking System for Travel Management is a mini project tha
 
 The system allows users to search for buses based on their desired origin and destination, along with the preferred travel date. Upon entering these details, the system retrieves relevant information from the database and displays available bus options, including departure time, duration, fare, and seat availability.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Technology used :
-phpmyadmin used for mysql database
 
-php used for backend
+1.phpmyadmin used for mysql database
 
-html5 | css | javascript | bootstrap4 for frontend
+2.php used for backend
 
-Xampp server
+3.html5 | css | javascript | bootstrap4 for frontend
+
+4.Xampp server
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Guidline :
 step 1:- Install Xampp
@@ -29,8 +33,7 @@ step 6:- check your project http://localhost/transport/
 
 step 7:- admin username :-admin and password : admin
 
-Connect with me ~Rajesh Rathore
-Linkedin Badge Website Badge Twitter Badge Instagram Badge
+
 
 Do star, fork and share the repo to show your support, it would help others too!
 
